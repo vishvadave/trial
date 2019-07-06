@@ -1,6 +1,6 @@
 setTimeout(start, 5000);
 
-var i = 0;
+var i = 1;
 var num = document.getElementsByClassName("counter");
 
 function start() {
