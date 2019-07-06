@@ -6,14 +6,14 @@ body {
   margin-top: 200px;
 }
 
-.col-md-4 {
+.count {
   text-align: center;
   padding-bottom: 50px;
   border-right: 1px dashed black;
 }
 
 @media (max-width: 991px) {
-  .col-md-4 {
+  .count {
     border-right: 0px dashed black;
     border-bottom: 1px dashed black;
     width: 50%;
