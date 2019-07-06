@@ -7,7 +7,7 @@ function start() {
     setInterval(increase, 1000);
 }
 function increase() {
-    if(i < 1000) {
+    if(i < 100) {
         i++;
         num.innerText = i;
     }
